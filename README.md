@@ -29,6 +29,8 @@ Sentron Tech Solutions is a modern digital solutions company specializing in web
 ```
 ## Tech Stack
 
+#### <p align="center"> Languages </p>
+
 ## Featured Projects
 
 ## GitHub Stats
