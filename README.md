@@ -88,6 +88,27 @@ Sentron Tech Solutions is a modern digital solutions company specializing in web
 
 ## 🔥 Featured Projects
 
+#### 🌐 Web Development
+
+| 🚀 Project | 📝 Description | 🏷 Category | 🔗 Link |
+|----------|--------------|------------|--------|
+| MedNova Healthcare Website | Modern healthcare landing page with clean UI, service sections, and trust-focused design for medical audiences | Landing Page | [View](https://mednovademo.netlify.app) |
+| LuxeStay Hotel Website | Elegant hospitality website showcasing rooms, services, and booking-focused layout with premium design aesthetics | Multi-page Website | [View](https://luxestaydemo.netlify.app) |
+
+#### 🎨Visual Content Creation
+
+| 🚀 Project | 📝 Description | 🏷 Category | 🔗 Link |
+|----------|--------------|------------|--------|
+| Sentron Tech Visual Content Collection | Professional social media posts, branded advertisements, and marketing creatives designed for engagement and brand identity | Social Media & Ads | [View](https://www.behance.net/gallery/247162073/Sentron-Tech-Solutions-Visual-Content-Creation) |
+
+#### 🎬 Video Generation
+
+| 🚀 Project | 📝 Description | 🏷 Category | 🔗 Link |
+|----------|--------------|------------|--------|
+| WrapIT Car Sticker Promo | High-impact promotional video with motion graphics, designed to attract attention and boost brand visibility | Promotional Video | [Watch](https://www.behance.net/gallery/247389949/WrapIT-Car-Sticker-Coming-Soon-Promotional-Video) |
+| T-Shirt Showcase Video | Clean and engaging product showcase video highlighting apparel design with smooth transitions and visual storytelling | Product Showcase | [Watch](https://www.behance.net/gallery/247389651/T-Shirt-Showcase-Sentron-Tech-Solutions) |
+
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&animation=fadeIn" width="100%"/>
 </div>
