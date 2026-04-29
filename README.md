@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/WhatsApp-Business%20Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
 
-  <a href="https://sentrontech.netlify.app">
+  <a href="https://sentrontech.online">
   <img src="https://img.shields.io/badge/Website-Visit%20SentronTech-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 
@@ -129,7 +129,7 @@ Sentron Tech Solutions is a modern digital solutions company specializing in web
 </div>
 
 ## 🧭 Business Portfolio Links
-[![Website](https://img.shields.io/badge/Website-Visit%20Our%20Site-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sentrontech.netlify.app)
+[![Website](https://img.shields.io/badge/Website-Visit%20Our%20Site-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sentrontech.online)
 [![Behance](https://img.shields.io/badge/Behance-Portfolio-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/sentrontechsolutions)
 
 <div align="center">
@@ -143,7 +143,7 @@ Sentron Tech Solutions is a modern digital solutions company specializing in web
 &nbsp;
 
 <div align="center">
-<a href="https://sentrontech.netlify.app">
+<a href="https://sentrontech.online">
   @Sentron Tech Solutions - Sanija Weerasuriya
 </a>
 </div>
