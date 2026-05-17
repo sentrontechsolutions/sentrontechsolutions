@@ -143,7 +143,8 @@ Sentron Tech Solutions is a modern digital solutions company specializing in web
 &nbsp;
 
 <div align="center">
+  <h4>Founder & Developer: <a href="https://github.com/sanijaweerasuriya">Sanija Weerasuriya</a></h4>
 <a href="https://sentrontech.online">
-  @Sentron Tech Solutions - Sanija Weerasuriya
+  @Sentron Tech Solutions
 </a>
 </div>
