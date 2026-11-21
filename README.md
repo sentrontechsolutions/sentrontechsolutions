@@ -13,7 +13,7 @@
   <img src="https://komarev.com/ghpvc/?username=sentrontechsolutions&style=for-the-badge"/>
 
   <a href="mailto:info@sentrontech.online">
-  <img src="https://img.shields.io/badge/Email-sentrontechsolutions@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-info@sentrontech.online-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
   <a href="https://wa.me/94725711614">
