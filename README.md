@@ -137,7 +137,7 @@ Sentron Tech Solutions is a modern digital solutions company specializing in web
 </div>
 
 ## 📞 Contact Info
-[![Email](https://img.shields.io/badge/Email-Business%20Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sentrontechsolutions@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Business%20Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@sentrontech.online)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Business%20Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/94725711614)
 
 &nbsp;
