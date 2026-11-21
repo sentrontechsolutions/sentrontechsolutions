@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/github/followers/sentrontechsolutions?label=GitHub%20Followers&style=for-the-badge"/>
   <img src="https://komarev.com/ghpvc/?username=sentrontechsolutions&style=for-the-badge"/>
 
-  <a href="mailto:sentrontechsolutions@gmail.com">
+  <a href="mailto:info@sentrontech.online">
   <img src="https://img.shields.io/badge/Email-sentrontechsolutions@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
